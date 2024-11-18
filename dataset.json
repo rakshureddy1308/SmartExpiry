@@ -1,0 +1,178 @@
+[
+  {
+    "name": "Apple Juice",
+    "price": 5.5,
+    "expiryDate": "2024-11-25",
+    "stock": 50,
+    "sales": 120,
+    "category": "A"
+  },
+  {
+    "name": "Orange Juice",
+    "price": 4.0,
+    "expiryDate": "2024-12-10",
+    "stock": 30,
+    "sales": 80,
+    "category": "B"
+  },
+  {
+    "name": "Banana Chips",
+    "price": 2.5,
+    "expiryDate": "2024-11-30",
+    "stock": 100,
+    "sales": 150,
+    "category": "A"
+  },
+  {
+    "name": "Milk",
+    "price": 3.0,
+    "expiryDate": "2024-11-20",
+    "stock": 20,
+    "sales": 200,
+    "category": "C"
+  },
+  {
+    "name": "Almonds",
+    "price": 8.0,
+    "expiryDate": "2025-05-15",
+    "stock": 150,
+    "sales": 50,
+    "category": "B"
+  },
+  {
+    "name": "Cashews",
+    "price": 7.5,
+    "expiryDate": "2025-01-10",
+    "stock": 80,
+    "sales": 60,
+    "category": "C"
+  },
+  {
+    "name": "Whole Wheat Bread",
+    "price": 3.5,
+    "expiryDate": "2024-11-22",
+    "stock": 120,
+    "sales": 170,
+    "category": "A"
+  },
+  {
+    "name": "Rice",
+    "price": 2.0,
+    "expiryDate": "2025-06-01",
+    "stock": 300,
+    "sales": 500,
+    "category": "C"
+  },
+  {
+    "name": "Spaghetti",
+    "price": 1.5,
+    "expiryDate": "2025-07-01",
+    "stock": 200,
+    "sales": 100,
+    "category": "B"
+  },
+  {
+    "name": "Cheese",
+    "price": 6.0,
+    "expiryDate": "2024-11-28",
+    "stock": 40,
+    "sales": 90,
+    "category": "A"
+  },
+  {
+    "name": "Peanut Butter",
+    "price": 4.5,
+    "expiryDate": "2025-02-15",
+    "stock": 75,
+    "sales": 110,
+    "category": "B"
+  },
+  {
+    "name": "Tomato Sauce",
+    "price": 2.8,
+    "expiryDate": "2025-03-01",
+    "stock": 180,
+    "sales": 95,
+    "category": "C"
+  },
+  {
+    "name": "Oats",
+    "price": 3.0,
+    "expiryDate": "2025-08-20",
+    "stock": 250,
+    "sales": 60,
+    "category": "C"
+  },
+  {
+    "name": "Frozen Pizza",
+    "price": 7.0,
+    "expiryDate": "2024-12-25",
+    "stock": 30,
+    "sales": 85,
+    "category": "B"
+  },
+  {
+    "name": "Granola Bars",
+    "price": 3.5,
+    "expiryDate": "2024-12-05",
+    "stock": 90,
+    "sales": 130,
+    "category": "A"
+  },
+  {
+    "name": "Canned Beans",
+    "price": 1.2,
+    "expiryDate": "2025-01-20",
+    "stock": 200,
+    "sales": 60,
+    "category": "C"
+  },
+  {
+    "name": "Salmon Fillets",
+    "price": 12.0,
+    "expiryDate": "2024-11-15",
+    "stock": 15,
+    "sales": 40,
+    "category": "A"
+  },
+  {
+    "name": "Lentils",
+    "price": 2.2,
+    "expiryDate": "2025-04-01",
+    "stock": 250,
+    "sales": 90,
+    "category": "C"
+  },
+  {
+    "name": "Chicken Breast",
+    "price": 10.0,
+    "expiryDate": "2024-11-18",
+    "stock": 50,
+    "sales": 180,
+    "category": "A"
+  },
+  {
+    "name": "Cucumber",
+    "price": 1.0,
+    "expiryDate": "2024-11-12",
+    "stock": 100,
+    "sales": 160,
+    "category": "A"
+  },
+  {
+    "name": "Toothpaste",
+    "price": 1.8,
+    "expiryDate": "2025-12-05",
+    "stock": 400,
+    "sales": 300,
+    "category": "C"
+  },
+  {
+    "name": "Ice Cream",
+    "price": 4.0,
+    "expiryDate": "2024-12-20",
+    "stock": 50,
+    "sales": 90,
+    "category": "B"
+  }
+]
